@@ -9,4 +9,4 @@ git clone https://github.com/dntsdnts/dntsdnts.github.io && npx serve dntsdnts.g
 
 ---
 
-![teapot I'M A TEAPOT](https://http.cat/418 418)
+![teapot I'M A TEAPOT](https://http.cat/418 "418")
